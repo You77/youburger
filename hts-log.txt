@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Jun 2022 10:46:40 at https://templatekit.tokomoo.com/burgerkit/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://templatekit.tokomoo.com/burgerkit/#
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "fr, en, *" https://templatekit.tokomoo.com/burgerkit/# -O1 "C:\Mes Sites Web\BURGER4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://templatekit.tokomoo.com/burgerkit/# )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:47:19	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/comments/feed/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/wp-json/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/wp-json/wp/v2/pages/2234 (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/xmlrpc.php?rsd (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftemplatekit.tokomoo.com%2Fburgerkit%2F (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftemplatekit.tokomoo.com%2Fburgerkit%2F&format=xml (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/homepage-v2/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/homepage-v3/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/about/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/menu/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/reservation/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/team/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/faq/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/reviews/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Forbidden" (403) at link https://templatekit.tokomoo.com/burgerkit/contact/ (from https://templatekit.tokomoo.com/burgerkit/)
+10:47:34	Error: 	"Not Found" (404) at link https://templatekit.tokomoo.com/burgerkit/wp-content/uploads/sites/81/2022/03/testi-bg.png (from https://templatekit.tokomoo.com/burgerkit/wp-content/uploads/sites/81/elementor/css/post-2234.css?ver=1650423238)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 102 links scanned, 85 files written (7519775 bytes overall) [4779130 bytes received at 83844 bytes/sec], 4510879 bytes transferred using HTTP compression in 64 files, ratio 36%, 17.0 requests per connection
+(16 errors, 0 warnings, 0 messages)
